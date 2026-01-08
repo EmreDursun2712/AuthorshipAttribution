@@ -1,4 +1,4 @@
-# Authorship Attribution (NLP Midterm) — 30 Columnists
+# Authorship Attribution 
 
 This project performs **authorship attribution** on the **30 Columnists** dataset using classic NLP features and baseline ML models.
 It loads raw text articles, applies preprocessing, extracts vector features (e.g., bag-of-words / TF-IDF), trains multiple classifiers,
